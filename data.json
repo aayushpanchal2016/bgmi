@@ -9,7 +9,7 @@
         "Fixed Lib Copy Failed😙"
     ],
     "downloadUrl": "https://github.com/ALEX5402/Reinject/releases/download/Stable-2.6/app-release-2.6.apk", 
-    "libs":"https://103.185.243.13/bgmi/imgui.zip",
+    "libs":"https://github.com/aayushpanchal2016/bgmi/raw/main/imgui.zip",
     "notice_title":"Game Version Update",
     "notice_body":"BGMI 2.5.0 (bullet track may crash it will fix soon 😭) and All PUBG 2.6.0 (sometimes esp glickes 😵)",
     "noticemode":"false"
